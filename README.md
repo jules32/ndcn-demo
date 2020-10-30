@@ -1,4 +1,4 @@
 # ndcn-demo
-Demoing github at office hours
+Demoing office hours
 
 Add words
